@@ -7,3 +7,5 @@ AI货运语音助手不仅是一项技术集成工程，更是推动传统运输
   在使用该程序调试时，需要申请千问大模型的KEY，在
   src\main\java\edu\cs4730\wearappvoice\utils下的Constants.java中，替换成你的千问KEY
    public static String qw_apikey = "请替换你申请的千问大模型KEY";  //千问的KEY
+
+   代码在master分支
